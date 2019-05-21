@@ -1,5 +1,12 @@
 # assignment_leanagri
 Python web scraping 
+--------------------------------------
+Code  - main scrape.py
+images - images saced locally
+result- csv validation and screenshots of required data
+
+
+
 
 Tech.
 -------
